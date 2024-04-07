@@ -1,0 +1,77 @@
+{
+  "name": "Danny Mohr",
+  "profilePictureUrl": "images/pictures/avatar.png",
+
+  "locales": {
+    "en": {
+      "credits": "Designed by <strong><a class='light' href='https://github.com/Wab00se'>Danny Mohr</a></strong>",
+      "role": "Open Sourcerer, Educator, Indie Hacker, White Hat Hacker"
+    },
+    "de": {
+      "credits": "Erstellt von <strong><a class='light' href='https://github.com/Wab00se'>Danny Mohr</a></strong>",
+      "role": "Fachinformatiker für Anwendungsentwicklung in Ausbildung"
+    },
+    "it": {
+      "credits": "Progettato da <strong><a class='light' href='https://github.com/Wab00se'>Danny Mohr</a></strong>",
+      "role": "Open Sourcerer, Educatore, Indie Hacker, White Hat Hacker"
+    }
+  },
+
+  "contact": {
+    "address": {
+      "id": "address",
+      "value": "Koppeldamm 33, 25335 Elmshorn",
+      "valueShort": "Elmshorn 25335",
+      "faIcon": "fa-solid fa-city",
+      "href": null
+    },
+
+    "email": {
+      "id": "email",
+      "value": "contact@danny-mohr.de",
+      "valueShort": "contact@danny-mohr.de",
+      "faIcon": "fa-solid fa-envelope",
+      "href": "mailto:contact@danny-mohr.de"
+    },
+
+    "x-twitter": {
+      "id": "x-twitter",
+      "value": "@Wab00se",
+      "valueShort": "@Wab00se",
+      "faIcon": "fa-brands fa-x-twitter",
+      "href": "https://x.com/Wab00se"
+    },
+
+    "github": {
+      "id": "github",
+      "value": "@Wab00se",
+      "valueShort": "@Wab00se",
+      "faIcon": "fa-brands fa-github",
+      "href": "https://github.com/Wab00se"
+    },
+
+    "instagram": {
+      "id": "instagram",
+      "value": "@waboose85",
+      "valueShort": "@waboose85",
+      "faIcon": "fa-brands fa-instagram",
+      "href": "https://www.instagram.com/waboose85/"
+    },
+
+    "linkedin": {
+      "id": "linkedin",
+      "value": "@danny-mohr",
+      "valueShort": "@danny-mohr",
+      "faIcon": "fa-brands fa-linkedin",
+      "href": "https://www.linkedin.com/in/danny-mohr/"
+    },
+
+    "phone": {
+      "id": "phone",
+      "value": "+49 1781547236",
+      "valueShort": "+49 1781547236",
+      "faIcon": "fa-solid fa-phone",
+      "href": "tel:+491781547236"
+    }
+  }
+}

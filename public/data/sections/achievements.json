@@ -1,0 +1,32 @@
+{
+  "locales": {
+    "en": {
+      "title": "Career <span class='text-primary'>Achievements</span>",
+      "description": "My certifications"
+    },
+    "de": {
+      "title": "Berufliche <span class='text-primary'>Erfolge</span>",
+      "description": "Meine bisher erworbenen Zertifizierungen"
+    }
+  },
+
+  "subcategories": [
+
+    {
+      "id": "certifications",
+      "faIcon": "fa-solid fa-award",
+      "locales": {
+        "en": { "title": "Certifications", "buttonLabel": "View Certification" },
+        "de": { "title": "Zertifizierungen", "buttonLabel": "Zertifikat anzeigen" },
+        "it": { "title": "Certificazioni", "buttonLabel": "Mostra la Certificazione" }
+      }
+    }
+  ],
+
+  "items": {
+
+    "certifications": [
+
+    ]
+  }
+}

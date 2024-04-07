@@ -1,0 +1,18 @@
+{
+  "supportedLanguages": [
+    {
+      "name": "Deutsch",
+      "id": "de",
+      "flagUrl": "images/flags/de.png"
+    },
+    {
+      "name": "English",
+      "id": "en",
+      "flagUrl": "images/flags/en.png",
+      "default": true
+    }
+
+  ],
+
+  "preloaderEnabled": true
+}

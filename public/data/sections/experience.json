@@ -1,0 +1,78 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Professional</span> Experience",
+      "description": "A look into my work experience."
+    },
+    "de": {
+      "title": "<span class='text-primary'>Berufliche</span> Erfahrung",
+      "description": "Ein Blick auf meine Berufserfahrung."
+    }
+  },
+
+  "items": [
+    {
+      "id": "experience_item_1",
+      "place": "@link{places.marine}",
+      "period": ["2004/07", "2008/07"],
+      "locales": {
+        "en": {
+          "title": "Soldier (NCO)",
+          "description": "Soldier for 6 years in the non-commissioned officer career. Assignment series 48 (IT system support). Main location was the Naval Technology School Stralsund, but frequently deployed abroad on the frigates F214 Lübeck and F219 Sachsen. Main field of activity was the weapons control center and IT service on board"
+        },
+        "de": {
+          "title": "Zeitsoldat (Unteroffizier)",
+          "description": "Zeitsoldat für 6 Jahre in der Unteroffizierslaufbahn. Verwendungsreihe 48 ( IT-Systembetreuung). Hauptstandort war die Marinetechnikschule Stralsund, jedoch häufig auf Auslandseinsätze auf den Fregatten F214 Lübeck und F219 Sachsen. Haupttätigkeitsfeld war der Waffenleitstand sowie der IT-Service an Board"
+        }
+      }
+    },
+
+    {
+      "id": "experience_item_2",
+      "place": "@link{places.lippert}",
+      "period": ["2011/6", "2012/7"],
+      "locales": {
+        "en": {
+          "title": "Specialist for kitchens, furniture and removal services",
+          "description": "My first job after my apprenticeship. I mainly worked in kitchen assembly, but also in the assembly of self-made office furniture for open-plan offices. Daily direct customer contact, processing complaints and acting as an intermediary between the customer and sales."
+        },
+        "de": {
+          "title": "Fachkraft für Küchen, Möbel und Umzugsservice",
+          "description": "Mein erster Job, nach meiner Ausbildung. Hauptsächlich tätig in der Küchenmontage, aber auch in der Montage von selbst angefertigten Büromöbeln für Großraumbüros. Täglicher direkter Kundenkontakt, bearbeiten von Reklamationen und Vermittler zwischen Kunde und Verkauf."
+        }
+      }
+    },
+
+    {
+      "id": "experience_item_3",
+      "place": "@link{places.heinitz}",
+      "period": ["2012/08", "2022/11"],
+      "locales": {
+        "en": {
+          "title": "Specialist for kitchens, furniture and removal services",
+          "description": "Developing an educational platform and YouTube channel focused on cybersecurity and software development. Conducting seminars and teaching, promoting IT education. Also managing a tech blog, sharing insights and tutorials related to tech and programming."
+        },
+        "de": {
+          "title": "Fachkraft für Küchen, Möbel und Umzugsservice",
+          "description": "Im Fokus stand die Montage von individuell geplanten Küchen, direkt beim Endkunden, sowie die Anlieferung von Möbeln. Aber auch Kundenservice und Lagerlogistik waren fester Bestandteil dieses Arbeitsplatzes. Bearbeitung von Kundenreklamationen und direktes Abwickeln von Zahlungen gehörten zum Arbeitsalltag. Viele Projekt arbeiten, wo ich der direkte Ansprechpartner auf den jeweiligen Baustellen für Bauleiter/Architekt war und als Vermittler zwischen Fa. Heinitz und dem Kunden tätig war."
+        }
+      }
+    },
+
+    {
+      "id": "experience_item_3",
+      "place": "@link{places.ausbildung}",
+      "period": ["2023/07", "2025/07"],
+      "locales": {
+        "en": {
+          "title": "Apprenticeship in IT Development",
+          "description": "Pursuing an apprenticeship in application development, acquiring essential skills for a career in software and IT security. Post-apprenticeship plans include starting a distance learning degree in Cybersecurity."
+        },
+        "de": {
+          "title": "Ausbildung zum Fachinformatiker",
+          "description": "IHK Zertifizierte Ausbildung zum Fachinformatiker für Anwendungsentwicklung. Beinhaltet ein 6-monatiges Praktikum."
+        }
+      }
+    }
+  ]
+}

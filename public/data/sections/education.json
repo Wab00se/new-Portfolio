@@ -1,0 +1,62 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Educational</span> Background",
+      "description": "A little overview of my previous education and professional training."
+    },
+    "de": {
+      "title": "<span class='text-primary'>Bildungs</span>hintergrund",
+      "description": "Eine kleine Übersicht über meine bisherige schulische sowie berufliche Ausbildung."
+    }
+  },
+
+  "items": [
+    {
+      "id": "school",
+      "place": "@link{places.school}",
+      "period": ["1996/08", "2002/07"],
+      "locales": {
+        "en": {
+          "title": "Secondary School Certificate - Graduation",
+          "description": "Acquisition of general secondary school leaving certificate."
+        },
+        "de": {
+          "title": "Mittlere Reife - Schulabschluss",
+          "description": "Erwerb der allgemeinen Mittleren Reife."
+        }
+      }
+    },
+    {
+      "id": "online_course_udacity",
+      "place": "@link{places.udacity}",
+      "period": ["2008/09", "2011/6"],
+
+      "locales": {
+        "en": {
+          "title": "Specialist for kitchens, furniture and removal services",
+          "description": "3-year apprenticeship with IHK qualification. Training focus: Kitchen and furniture assembly, customer service, electrical and water technology as well as material and tool training."
+        },
+        "de": {
+          "title": "Ausbildung (IHK) zur Fachkraft für Küchen, Möbel und Umzugsservice",
+          "description": "3-jährige Ausbildung mit IHK-Abschluss. Ausbildungsschwerpunkte: Küchen und Möbelmontage, Kundenservice, Elektro- und Wassertechnik sowie Material und Werkzeuglehre."
+        }
+      }
+    },
+
+    {
+      "id": "current_education_it",
+      "place": "@link{places.ibb}",
+      "period": ["2023/07", "2025/07"],
+      "locales": {
+        "en": {
+          "title": "Apprenticeship in IT Application Development",
+          "description": "Currently pursuing an apprenticeship in IT application development."
+        },
+        "de": {
+          "title": "Ausbildung (IHK) zum Fachinformatiker in Anwendungsentwicklung",
+          "description": "Derzeit absolviere ich eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung beim Institut für Berufliche Bildung."
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "locales": {
+    "en": {
+      "title": "My <span class='text-primary'>Development Portfolio</span>",
+      "description": "Discover a selection of my web development and programming projects."
+    },
+    "de": {
+      "title": "Mein <span class='text-primary'>Entwicklungsportfolio</span>",
+      "description": "Entdecken Sie eine Auswahl meiner Projekte im Bereich Webentwicklung und Programmierung. "
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "apps",
+      "locales": {
+        "en": { "title": "Applications" },
+        "de": { "title": "Anwendungen" }
+      }
+    },
+    {
+      "id": "website",
+      "locales": {
+        "en": { "title": "Website" },
+        "de": { "title": "Website" }
+      }
+    },
+    {
+      "id": "design",
+      "locales": {
+        "en": { "title": "Media Design" },
+        "de": { "title": "Medien Design" }
+      }
+    },
+    {
+      "id": "snippets",
+      "locales": {
+        "en": { "title": "Code snippets" },
+        "de": { "title": "Codeschnipsel" }
+      }
+    }
+  ],
+
+  "items": {
+    "apps": [
+      {
+        "id": "smartfit",
+        "title": "Smart Fit AI",
+        "logoUrl": "images/portfolio/project-logo-1.png",
+        "links": [
+          { "faIcon": "fa-brands fa-github", "href": "https://github.com/FachinformatikerLabs/SmartFitAI" }
+        ],
+        "locales": {
+          "en": {
+            "description": "The <b>Smart Fit AI</b> app is a fitness and nutrition app that was created as part of the Python training in group work. We use this project to acquire new skills in the following areas:<br></br> <li><b>Python programming</b></li><li><b>KivyMD UI / UX design</b></li><li><b>Supabase database connection</b></li><li><b>Project organization and documentation</b></li>.",
+            "tags": ["Python", "Kivy", "KivyMD", "Supabase"]
+          },
+          "de": {
+            "description": "Bei der <b>Smart Fit AI</b> App handelt es sich um eine Fitness und Ernährungs App, welche im Rahmen der Python Ausbildung in Gruppenarbeit entstanden ist. Wir nutzen dieses Projekt zum Erlangen neuer Fähigkeiten in folgenden Bereichen:<br></br> <li><b>Python Programmierung</b></li><li><b>KivyMD UI / UX Design</b></li><li><b>Supabase Datenbank Anbindung</b></li><li><b>Projekt Organisation und Dokumentation</b></li>.",
+            "tags": ["Python", "Kivy", "KivyMD", "Supabase"]
+          }
+        }
+      }
+    ],
+
+    "website": [
+      {
+        "id": "portfolio",
+        "title": "Portfolio Website",
+        "logoUrl": "images/portfolio/project-logo-3.png",
+        "links": [
+          { "faIcon": "fa-solid fa-globe", "href": "http://danny-mohr.de/" }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Docux</b> Document-driven websites with Vue & Markdown.",
+            "tags": ["nuxt", "documentation-generator", "nuxt-theme"]
+          },
+          "de": {
+            "description": "<b>Portfolio</b> Website um Erfahrungen mit VUE und Typescript zu sammeln",
+            "tags": ["Vue", "Typescript", "HTML/CSS"]
+          }
+        }
+      }
+    ],
+
+    "design": [
+
+    ],
+    "snippets": [
+
+    ]
+  }
+}

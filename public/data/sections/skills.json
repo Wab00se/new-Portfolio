@@ -1,0 +1,257 @@
+{
+  "locales": {
+    "en": {
+      "title": "<span class='text-primary'>Skill</span> Set",
+      "description": "Exploring the diverse range of skills I've acquired and developed:"
+    },
+    "de": {
+      "title": "<span class='text-primary'>Fähigkeiten</span>",
+      "description": "Erkunden Sie die vielfältige Palette an Fähigkeiten, die ich erworben und entwickelt habe:"
+    },
+    "it": {
+      "title": "<span class='text-primary'>Set di Competenze</span>",
+      "description": "Esplorare la variegata gamma di competenze che ho acquisito e sviluppato:"
+    }
+  },
+
+  "subcategories": [
+    {
+      "id": "abilities",
+      "type": "list",
+      "progress": null,
+      "faIcon": "fa-solid fa-square",
+      "locales": {
+        "en": { "title": null }
+      }
+    },
+
+    {
+      "id": "programming",
+      "type": "grid",
+      "progress": "number",
+      "faIcon": "fa fa-code",
+      "locales": {
+        "en": { "title": "Programming" },
+        "de": { "title": "Programmierung" },
+        "it": { "title": "Programmazione" }
+      }
+    },
+
+    {
+      "id": "languages",
+      "type": "list",
+      "progress": { "0": "beginner", "20": "rookie", "40": "intermediate", "60": "advanced", "80": "fluent", "100": "native" },
+      "faIcon": "fa fa-language",
+      "locales": {
+        "en": { "title": "Languages" },
+        "de": { "title": "Sprachen" },
+        "it": { "title": "Lingue" }
+      }
+    },
+
+    {
+      "id": "extra",
+      "type": "grid",
+      "progress": null,
+      "faIcon": "fa fa-marker",
+      "locales": {
+        "en": { "title": "Bonus Skills" },
+        "de": { "title": "Zusatzfähigkeiten" },
+        "it": { "title": "Abilità Bonus" }
+      }
+    }
+
+  ],
+
+  "items": {
+    "abilities": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-people-group",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Teamwork ",
+            "description": "Years of working with colleagues in team and project situations. I have gained and applied experience and skills in communication, conflict resolution and a sense of responsibility throughout my career to date."
+          },
+          "de": {
+            "title": "Teamfähigkeit",
+            "description": "Jahrelange Zusammenarbeit mit Kameraden/Kollegen in Team und Projekt Situationen. Erfahrungen und Fähigkeiten in Kommunikation, Konfliktlösung und Verantwortungsbewusstsein konnte ich in meiner bisherigen Berufslaufbahn immer wieder sammeln und anwenden"
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-brain",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Creativity",
+            "description": "As a kitchen fitter, I was often faced with unplanned problems, at which point flexibility, brainstorming and problem-solving were essential. With years of experience, I built up more and more extensive skills to deal with such situations and to face them creatively and professionally. My hobby in the field of web design also kept stimulating my creative drive. By acquiring new skills, I was always able to realize my own visions."
+          },
+          "de": {
+            "title": "Kreativität",
+            "description": "Oft gab es als Küchenmonteur die Situation, vor ungeplanten Problemen zu stehen, in diesen Momenten kam es oft auf Flexibilität, Ideenfindung und Problemlösung an. Mit den Jahren der Erfahrung baute man immer weitreichendere Fähigkeiten auf, um solchen Situation Herr zu werden und ihnen kreativ und professionell zu begegnen. Auch mein Hobby im Bereich Webdesign förderte immer wieder meinen kreativen Schaffungsdrang. Durch Aneignung neuer Fähigkeiten war es mir immer wieder möglich, meine eigenen Visionen umzusetzen."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-regular fa-comment",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Communication",
+            "description": "I have often been on the front line in my professional career to date. Whether during my time in the army, working with my superiors or as a craftsman directly with the end customer or site manager. During this time, I was able to acquire and expand many communication skills. Whether it was putting myself in other people's shoes, dealing with conflicts constructively or responding to the needs and perspectives of others. Through daily contact with a wide variety of customers, I was able to build up a very good understanding of people and learned to adapt to the respective situations."
+          },
+          "de": {
+            "title": "Kommunikation",
+            "description": "Oft war ich in meiner bisherigen beruflichen Laufbahn an vorderster Front. Ob während meiner Bundeswehrzeit bei der Zusammenarbeit mit meinen Vorgesetzten oder als Handwerker direkt beim Endkunden bzw. Bauleiter. Während dieser Zeit konnte ich viele Fähigkeiten in der Kommunikation erlangen und erweitern. Sei es sich in andere hineinzuversetzen, Konflikte konstruktiv anzugehen oder auf die Bedürfnisse und Perspektiven anderer einzugehen. Durch den täglichen Kontakt mit den unterschiedlichsten Kunden konnte ich sehr gute Menschenkentnisse aufbauen und lernte mich den jeweiligen Situationen anzupassen."
+          }
+        }
+      },
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-feather-pointed",
+        "value": null,
+        "locales": {
+          "en": {
+            "title": "Adaptability",
+            "description": "As a kitchen fitter, I was exposed to new customers, different work locations and working conditions every day. This diversity required me to quickly adapt my working methods to the respective circumstances. The ability to adapt flexibly to changing situations and adjust to new people became an essential part of my daily work."
+          },
+          "de": {
+            "title": "Anpassungsfähigkeit",
+            "description": "Als Küchenmonteur war ich täglich neuen Kunden, verschiedenen Arbeitsorten und Arbeitsbedingungen ausgesetzt. Diese Vielfalt erforderte eine schnelle Anpassung meiner Arbeitsweise an die jeweiligen Gegebenheiten. Die Fähigkeit, mich flexibel auf wechselnde Situationen einzustellen und mich auf neue Menschen einzustellen, wurde zu einem wesentlichen Bestandteil meiner täglichen Arbeit."
+          }
+        }
+      }
+    ],
+
+    "programming": [
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-html5",
+        "value": 70,
+        "locales": {
+          "en": { "title": "HTML 5", "description": "Experience Time: 20 years (Hobby)" },
+          "de": { "title": "HTML 5", "description": "Erfahrungsdauer: 20 Jahre (Hobby)" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-css3-alt",
+        "value": 60,
+        "locales": {
+          "en": { "title": "CSS 3", "description": "Experience Time: 20 years (Hobby)" },
+          "de": { "title": "CSS 3", "description": "Erfahrungsdauer: 20 Jahre (Hobby)" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-brands fa-python",
+        "value": 35,
+        "locales": {
+          "en": { "title": "Python", "description": "Experience Time: 1 year" },
+          "de": { "title": "Python", "description": "Erfahrungsdauer: 1 Jahr" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-regular fa-file-code",
+        "value": 20,
+        "locales": {
+          "en": { "title": "TypeScript", "description": "Experience Time: 1 year" },
+          "de": { "title": "TypeScript", "description": "Erfahrungsdauer: 1 Jahr" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-vuejs",
+        "value": 15,
+        "locales": {
+          "en": { "title": "Vue 3", "description": "Experience Time: 1/2 year" },
+          "de": { "title": "Vue 3", "description": "Erfahrungsdauer: 1/2 Jahr" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fa-solid fa-database",
+        "value": 45,
+        "locales": {
+          "en": { "title": "SQL", "description": "Experience Time: 1/2 year" },
+          "de": { "title": "SQL", "description": "Erfahrungsdauer: 1/2 Jahr" }
+        }
+      },
+
+      {
+        "imageIconUrl": null,
+        "faIcon": "fab fa-react",
+        "value": 15,
+        "locales": {
+          "en": { "title": "React", "description": "Experience Time: 1/2 year" },
+          "de": { "title": "React", "description": "Erfahrungsdauer: 1/2 Jahr" }
+        }
+      }
+    ],
+
+    "languages": [
+      {
+        "imageIconUrl": "images/flags/de.png",
+        "faIcon": null,
+        "value": 100,
+        "locales": {
+          "en": { "title": "German", "description": "Native speaker with excellent communication and writing skills." },
+          "de": { "title": "Deutsch", "description": "Muttersprachler mit ausgezeichneten Kommunikations- und Schreibfähigkeiten." },
+          "it": { "title": "Tedesco", "description": "Madrelingua con eccellenti capacità di comunicazione e scrittura." }
+        }
+      },
+
+      {
+        "imageIconUrl": "images/flags/en.png",
+        "faIcon": null,
+        "value": 60,
+        "locales": {
+          "en": { "title": "Englisch", "description": "Good communication and writing skills" },
+          "de": { "title": "Englisch", "description": "gute Englischkenntnisse in Wort und Schrift" },
+          "it": { "title": "Inglese", "description": "Fluente sia nella lingua parlata che in quella scritta; sicuro nella comunicazione professionale." }
+        }
+      }
+    ],
+
+    "extra": [
+      {
+        "locales": {
+          "en": { "title": "Cross-Platform App Development", "description": "Proficient in Adobe Creative Cloud, including Photoshop, Illustrator and InDesign. Experience creating graphics, logos and layouts for various applications including print materials, digital media and web design. Ability to edit and enhance images and create engaging visual content" },
+          "de": { "title": "Adobe Creative Cloud", "description": "Versiert in Adobe Creative Cloud, einschließlich Photoshop, Illustrator und InDesign. Erfahrung in der Erstellung von Grafiken, Logos und Layouts für verschiedene Anwendungen wie Druckmaterialien, digitale Medien und Webdesign. Fähigkeit zur Bearbeitung und Verbesserung von Bildern sowie zur Erstellung ansprechender visueller Inhalte" }
+        }
+      },
+
+      {
+        "locales": {
+          "en": { "title": "NPM Library Development", "description": "Extensive knowledge of Microsoft and Open Office, including Word, Excel and PowerPoint. Experience in creating professional documents, spreadsheets and presentations for various requirements. Ability to efficiently use Office tools to organize, analyze and present information." },
+          "de": { "title": "MS / Open Office", "description": "Umfassende Kenntnisse in Microsoft und Open Office, einschließlich Word, Excel und PowerPoint. Erfahrung in der Erstellung professioneller Dokumente, Tabellenkalkulationen und Präsentationen für verschiedene Anforderungen. Fähigkeit zur effizienten Nutzung von Office-Tools für die Organisation, Analyse und Präsentation von Informationen." }
+        }
+      },
+
+      {
+        "locales": {
+          "en": { "title": "Joomla (CMS)", "description": "Experienced with Joomla, a content management system for creating and managing websites. Experience in creating and customizing Joomla websites, including design customization, plugin integration and content management. Ability to effectively utilize the Joomla platform to create engaging and functional web presences." },
+          "de": { "title": "Joomla (CMS)", "description": "Erfahrener Umgang mit Joomla, einem Content-Management-System zur Erstellung und Verwaltung von Websites. Erfahrung in der Erstellung und Anpassung von Joomla-Websites, einschließlich Designanpassungen, Plugin-Integration und Inhaltsverwaltung. Fähigkeit zur effektiven Nutzung der Joomla-Plattform zur Erstellung ansprechender und funktionaler Webpräsenzen." }
+        }
+      },
+
+      {
+        "locales": {
+          "en": { "title": "Windows / Linux", "description": "Knowledge in the use of operating systems such as Windows and Linux. Experience in efficiently navigating operating systems, managing files and folders, and installing and uninstalling applications. Experience performing administrative tasks such as user management, system configuration and security policies. Ability to troubleshoot and problem solve platform specific issues and automate tasks using scripts and command line tools." },
+          "de": { "title": "Windows / Linux", "description": "Kenntnisse in der Nutzung von Betriebssystemen wie Windows und Linux. Erfahrung in der effizienten Navigation durch die Betriebssysteme, Verwaltung von Dateien und Ordnern sowie Installation und Deinstallation von Anwendungen. Erfahrung in der Durchführung administrativer Aufgaben wie Benutzerverwaltung, Systemkonfiguration und Sicherheitsrichtlinien. Fähigkeit zur Fehlerbehebung und Problemlösung bei plattformspezifischen Problemen sowie zur Automatisierung von Aufgaben mit Skripten und Befehlszeilenwerkzeugen" }
+        }
+      }
+    ]
+
+  }
+}

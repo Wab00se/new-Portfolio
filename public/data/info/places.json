@@ -1,6 +1,6 @@
 {
   "marine": {
-    "logoUrl": "images/places/marine.png",
+    "logoUrl": "images/places/logo-marine.png",
     "faIcon": "fa fa-house-laptop",
     "locales": {
       "en": { "name": "Deutsche Bundesmarine" }
@@ -8,7 +8,7 @@
   },
 
   "heinitz": {
-    "logoUrl": "images/places/logo-tech.png",
+    "logoUrl": "images/places/logo-handwerk.png",
     "faIcon": "fa-solid fa-person-chalkboard",
     "locales": {
       "en": { "name": "Möbel Heinitz (Elmshorn)" }
@@ -16,7 +16,7 @@
   },
 
   "lippert": {
-    "logoUrl": "images/places/logo-tech.png",
+    "logoUrl": "images/places/logo-handwerk.png",
     "faIcon": "fa-solid fa-person-chalkboard",
     "locales": {
       "en": { "name": "Montage Service Lippert (Wedel)" }
@@ -48,17 +48,16 @@
       "it": { "name": "IBB Avanti con l'Educazione" }
     }
   },
-
-  "udacity": {
-    "logoUrl": "images/places/logo-udacity.png",
+  "berufschule": {
+    "logoUrl": "images/places/logo-bs.png",
     "faIcon": "fa fa-house-laptop",
     "locales": {
-      "en": { "name": "Udacity" }
+      "en": { "name": "Berufliche Schule Elmshorn" }
     }
   },
 
   "school": {
-    "logoUrl": null,
+    "logoUrl": "images/places/logo-school.png",
     "faIcon": "fas fa-graduation-cap",
     "locales": {
       "en": { "name": "Jakob-Struve-Schule Horst (Holstein)" },

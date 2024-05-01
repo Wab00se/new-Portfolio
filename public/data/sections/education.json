@@ -27,8 +27,8 @@
       }
     },
     {
-      "id": "online_course_udacity",
-      "place": "@link{places.udacity}",
+      "id": "berufschule",
+      "place": "@link{places.berufschule}",
       "period": ["2008/09", "2011/6"],
 
       "locales": {

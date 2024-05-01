@@ -11,12 +11,6 @@
       "description": "Zögern Sie nicht, mich zu kontaktieren, wann immer Sie möchten!",
       "subtitle": "Oder...",
       "subtitleDescription": "Wenn Sie bevorzugen, können Sie mich über die folgenden Optionen erreichen:"
-    },
-    "it": {
-      "title": "<span class='text-primary'>Contattami</span>",
-      "description": "Non esitare a metterti in contatto con me ogni volta che ne senti il bisogno!",
-      "subtitle": "O...",
-      "subtitleDescription": "Se preferisci, puoi raggiungermi attraverso le seguenti opzioni:"
     }
   },
 
@@ -25,7 +19,7 @@
     "@link{profile.contact.phone}",
     "@link{profile.contact.email}",
     "@link{profile.contact.linkedin}",
-    "@link{profile.contact.x-twitter}",
-    "@link{profile.contact.instagram}"
+    "@link{profile.contact.x-twitter}"
+
   ]
 }

@@ -3,21 +3,20 @@
     "en": {
       "welcome": "Welcome to my <span class='text-primary'>Resume!</span>",
       "welcomeShort": "Welcome!",
-      "bio": "As an aspiring IT specialist in application development and an experienced open sourcerer, I infuse innovative ideas into software development. My enthusiasm for technical solutions and educational initiatives drives me to realize outstanding digital projects. Let's collaborate and create something extraordinary together."
+      "bio": "Hi there, my name is Danny, I'm 38 years old and a prospective IT specialist for application development. I would like to use this website to give you an insight into me as a person, my training and my private projects. \n I am currently looking for a 6-month internship.\n So if you are interested in a committed and eager-to-learn application developer in your team, I cordially invite you to browse through my portfolio."
     },
     "de": {
       "welcome": "Willkommen zu meinem <span class='text-primary'>Lebenslauf!</span>",
       "welcomeShort": "Willkommen!",
-      "bio": " Moin Moin, mein Name ist Danny, bin 38 Jahre alt und angehender Fachinformatiker für Anwendungsentwicklung. Ich möchte diese Website nutzen, um Ihnen einen Einblick in mich als Person, meine Ausbildung sowie meine privaten Projekte zu ermöglichen. \n Aktuell befinde ich mich auf der Suche nach einem 6-monatigen Praktikum.\n Sollten Sie also Interesse an einem engagierten und lernwilligen Anwendungsentwickler in Ihrem Team haben, lade ich Sie herzlichst dazu ein, mein Portfolio zu durchstöbern. "
+      "bio": "Moin Moin, mein Name ist Danny, bin 38 Jahre alt und angehender Fachinformatiker für Anwendungsentwicklung. Ich möchte diese Website nutzen, um Ihnen einen Einblick in mich als Person, meine Ausbildung sowie meine privaten Projekte zu ermöglichen. \n Aktuell befinde ich mich auf der Suche nach einem 6-monatigen Praktikum.\n Sollten Sie also Interesse an einem engagierten und lernwilligen Anwendungsentwickler in Ihrem Team haben, lade ich Sie herzlichst dazu ein, mein Portfolio zu durchstöbern. "
     }
   },
 
   "items": {
     "socialCircles": [
-      "@link{profile.contact.instagram}",
-      "@link{profile.contact.x-twitter}",
       "@link{profile.contact.linkedin}",
-      "@link{profile.contact.github}"
+      "@link{profile.contact.github}",
+      "@link{profile.contact.x-twitter}"
     ],
 
     "contactListItems": [

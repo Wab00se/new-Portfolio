@@ -67,18 +67,37 @@
       {
         "id": "portfolio",
         "title": "Portfolio Website",
-        "logoUrl": "images/portfolio/project-logo-3.png",
+        "logoUrl": "images/portfolio/project-logo-2.png",
         "links": [
           { "faIcon": "fa-solid fa-globe", "href": "http://danny-mohr.de/" }
         ],
         "locales": {
           "en": {
-            "description": "<b>Docux</b> Document-driven websites with Vue & Markdown.",
-            "tags": ["nuxt", "documentation-generator", "nuxt-theme"]
+            "description": "<b>Portfolio</b> Website to gain experience with VUE and Typescript.",
+            "tags": ["Vue", "Typescript", "HTML/CSS"]
           },
           "de": {
             "description": "<b>Portfolio</b> Website um Erfahrungen mit VUE und Typescript zu sammeln",
             "tags": ["Vue", "Typescript", "HTML/CSS"]
+          }
+        }
+      },
+      {
+        "id": "joypix",
+        "title": "Joypix",
+        "logoUrl": "images/portfolio/project-logo-9.png",
+        "links": [
+          { "faIcon": "fa-solid fa-globe", "href": "http://joypix.io/" },
+          { "faIcon": "fa-brands fa-atlassian", "href": "https://team.atlassian.com/project/JPX-1/about/" }
+        ],
+        "locales": {
+          "en": {
+            "description": "<b>Joypix</b>. Work & Study as Junior Frontend Developer in a start-up. Development with React / Next.js framework in combination with Tailwind CSS. Implementation of designs, creation of functionalities, documentation and active communication with team members are the daily focus here and are ideal for me to gain new insights and experience in web development.",
+            "tags": ["Social Media", "Next.JS", "Front-End", "TailwindCSS"]
+          },
+          "de": {
+            "description": "<b>Joypix</b>. Bei Joypix bin ich als unbezahlter Junior-Frontend-Entwickler tätig. Entwicklung mit React / Next.js Framework in Verbindung mit Tailwind CSS. Umsetzung von Designs, Erstellung von Funktionalitäten, Dokumentationen und aktive Kommunikation mit den Teammitgliedern stehen hier im täglichen Vordergrund und eignen sich hervorragend für mich, neue Einblicke und Erfahrungen in die Webentwicklung zu gewinnen.",
+            "tags": ["Social Media", "Next.JS", "Front-End", "TailwindCSS"]
           }
         }
       }

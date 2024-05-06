@@ -226,14 +226,14 @@
     "extra": [
       {
         "locales": {
-          "en": { "title": "Cross-Platform App Development", "description": "Proficient in Adobe Creative Cloud, including Photoshop, Illustrator and InDesign. Experience creating graphics, logos and layouts for various applications including print materials, digital media and web design. Ability to edit and enhance images and create engaging visual content" },
+          "en": { "title": "Adobe Creative Cloud", "description": "Proficient in Adobe Creative Cloud, including Photoshop, Illustrator and InDesign. Experience creating graphics, logos and layouts for various applications including print materials, digital media and web design. Ability to edit and enhance images and create engaging visual content" },
           "de": { "title": "Adobe Creative Cloud", "description": "Versiert in Adobe Creative Cloud, einschließlich Photoshop, Illustrator und InDesign. Erfahrung in der Erstellung von Grafiken, Logos und Layouts für verschiedene Anwendungen wie Druckmaterialien, digitale Medien und Webdesign. Fähigkeit zur Bearbeitung und Verbesserung von Bildern sowie zur Erstellung ansprechender visueller Inhalte" }
         }
       },
 
       {
         "locales": {
-          "en": { "title": "NPM Library Development", "description": "Extensive knowledge of Microsoft and Open Office, including Word, Excel and PowerPoint. Experience in creating professional documents, spreadsheets and presentations for various requirements. Ability to efficiently use Office tools to organize, analyze and present information." },
+          "en": { "title": "MS / Open Office", "description": "Extensive knowledge of Microsoft and Open Office, including Word, Excel and PowerPoint. Experience in creating professional documents, spreadsheets and presentations for various requirements. Ability to efficiently use Office tools to organize, analyze and present information." },
           "de": { "title": "MS / Open Office", "description": "Umfassende Kenntnisse in Microsoft und Open Office, einschließlich Word, Excel und PowerPoint. Erfahrung in der Erstellung professioneller Dokumente, Tabellenkalkulationen und Präsentationen für verschiedene Anforderungen. Fähigkeit zur effizienten Nutzung von Office-Tools für die Organisation, Analyse und Präsentation von Informationen." }
         }
       },
